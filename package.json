@@ -6,6 +6,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "ts-node"
+    "start": "ts-node",
+    "singleton": "ts-node --transpile-only creational/singleton/example/main.ts"
   }
 }
