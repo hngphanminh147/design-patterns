@@ -7,6 +7,7 @@
   "scripts": {
     "build": "tsc",
     "start": "ts-node",
-    "singleton": "ts-node --transpile-only creational/singleton/example/main.ts"
+    "singleton": "ts-node --transpile-only creational/singleton/example/main.ts",
+    "abstract-factory": "ts-node --transpile-only creational/abstract-factory/example/main.ts"
   }
 }
