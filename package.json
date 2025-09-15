@@ -10,6 +10,7 @@
     "singleton": "ts-node --transpile-only creational/singleton/example/main.ts",
     "abstract-factory": "ts-node --transpile-only creational/abstract-factory/example/main.ts",
     "builder": "ts-node --transpile-only creational/builder/example/main.ts",
-    "prototype": "ts-node --transpile-only creational/prototype/example/main.ts"
+    "prototype": "ts-node --transpile-only creational/prototype/example/main.ts",
+    "factory-method": "ts-node --transpile-only creational/factory-method/example/main.ts"
   }
 }
